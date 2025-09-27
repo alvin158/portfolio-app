@@ -4,4 +4,18 @@
 .custom-avatar {
     width: 300px;
     height: 300px;
-  }
+}
+
+body {
+  margin: 0; /* Remove default body margin */
+}
+
+.timeline {
+  margin-left: 0; /* Set the left margin to 0 */
+  padding: 20px; /* Optional: Add padding for better visual appearance */
+}
+
+.job-style {
+  /* Your event styles go here */
+  margin-bottom: 10px; /* Optional: Add space between events */
+}
